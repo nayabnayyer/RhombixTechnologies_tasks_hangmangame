@@ -1,4 +1,4 @@
-# RhombixTechnologies_tasks
+# RhombixTechnologies_tasks_hangmangame
 
 This isn’t just any Hangman—it’s running right in your browser thanks to Streamlit! 🖥️✨ No boring setups, no fuss—just you, some fun words, and a stick figure who’s counting on you to guess right!
 
